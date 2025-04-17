@@ -1,0 +1,8 @@
+{
+    "label":"Project Management",
+    "position": 4,
+    "link": {
+        "type": "generated-index",
+        "description": "Seção com informações de gerenciamento do projeto"
+    }
+}

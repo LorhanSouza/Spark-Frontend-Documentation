@@ -1,0 +1,8 @@
+{
+    "label":"Team Management",
+    "position": 3,
+    "link": {
+        "type": "generated-index",
+        "description": "Seção com informações acerca do gerenciamento da equipe do projeto"
+    }
+}
