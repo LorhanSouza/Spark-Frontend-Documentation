@@ -15,11 +15,11 @@ Assegurar uma comunicação clara, eficiente e contínua entre os membros da equ
 
 | Nome             | Papel na equipe             | Necessidade de informação                     | Nível de envolvimento |
 |------------------|-----------------------------|------------------------------------------------|------------------------|
-| João Silva       | Desenvolvedor Backend       | Tarefas técnicas, definições de API            | Alto                   |
-| Maria Andrade    | Product Owner               | Roadmap, progresso, entrega de funcionalidades | Muito alto             |
-| Bruno Oliveira   | Scrum Master                | Status diário, impedimentos                    | Alto                   |
-| Carla Martins    | Cliente/Stakeholder externo | Marcos de entrega, status geral                | Médio                  |
-| Equipe de QA     | Testes e validação          | Versões entregues, bugs                        | Alto                   |
+| Larissa Rangel       | Líder        | Tarefas técnicas, definições de API            | Muito Alto                   |
+| Gabriel Barbosa    | Estrategista               | Roadmap, progresso, entrega de funcionalidades | Muito alto             |
+| Lorhan de Souza   |                | Status diário, impedimentos                    | Médio                   |
+| Thiago Carvalho    | Cliente/Stakeholder externo | Marcos de entrega, status geral                | Médio                  |
+| Rodolfo    |         | Versões entregues, bugs                        | Baixo                  |
 
 ---
 
